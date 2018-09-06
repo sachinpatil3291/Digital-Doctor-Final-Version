@@ -1,0 +1,7 @@
+.checkbox-inline label, .radio-inline label{
+  font-weight: normal;
+}
+#cancel{
+	margin-left: 10px;
+}
+

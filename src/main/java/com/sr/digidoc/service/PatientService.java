@@ -8,7 +8,7 @@ import com.sr.digidoc.model.Patient;
 import com.sr.digidoc.repository.PatientRepository;
 
 @Transactional
-@Service("patientService")
+@Service
 public class PatientService {
 	
 	@Autowired
